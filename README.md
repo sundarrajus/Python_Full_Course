@@ -1,4 +1,4 @@
-# Python Full Course — From Scratch to Advanced
+# Python Full Course - From Scratch to Advanced
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Topics](https://img.shields.io/badge/Topics-31-green?style=flat&logo=files)
